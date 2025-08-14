@@ -1,4 +1,4 @@
-# Primeiro projeto Back end do Curso *Spring boot* e *Angular* (Agosto/2025)
+# Primeiro projeto Back end do Curso *Spring Boot* e *Angular* (Agosto/2025)
 
 
 Este projeto foi desenvolvido como parte das atividades do curso, **tendo como objetivo a prática de conceitos de desenvolvimento Back-end com Spring Boot**.
