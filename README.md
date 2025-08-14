@@ -1,8 +1,10 @@
 # Primeiro projeto Back end do Curso *Spring boot* e *Angular* (Agosto/2025)
 
-Este projeto foi desenvolvido como parte das atividades do curso, tendo como objetivo a prática de conceitos de desenvolvimento Back-end com Spring Boot.
 
-### Demonstração do Professor
+Este projeto foi desenvolvido como parte das atividades do curso, **tendo como objetivo a prática de conceitos de desenvolvimento Back-end com Spring Boot**.
+
+
+## 📚 Demonstração do Professor
 
 A API inicial, fornecida como exemplo, realizava:
 
@@ -10,7 +12,8 @@ A API inicial, fornecida como exemplo, realizava:
 
 * Cálculo da média desses números.
 
-### Atividade Proposta
+
+## 📚 Atividade Proposta
 
 A tarefa consistiu em realizar alterações na API para que, além das funcionalidades originais, ela também retornasse:
 
